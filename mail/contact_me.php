@@ -14,7 +14,6 @@ $name = strip_tags(htmlspecialchars($_POST['name']));
 $email_address = strip_tags(htmlspecialchars($_POST['email']));
 $phone = strip_tags(htmlspecialchars($_POST['phone']));
 $message = strip_tags(htmlspecialchars($_POST['message']));
-//$test = strip_tags(htmlspecialchars($_POST['test']));
 
 // Create the email and send the message
 $to = 'omarnadeem56@gmail.com'; // Add your email address inbetween the '' replacing yourname@yourdomain.com - This is where the form will send a message to.
