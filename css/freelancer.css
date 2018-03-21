@@ -383,3 +383,8 @@ bg-blog{
   background-color: #1a252f;
   border-color: #1a252f;
 }
+
+.article_pub-date {
+  color: #272694;
+}
+
