@@ -18,10 +18,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
+            <state relative-caret-position="13832">
               <caret line="521" column="43" lean-forward="true" selection-start-line="521" selection-start-column="43" selection-end-line="521" selection-end-column="43" />
               <folding />
             </state>
@@ -31,8 +31,8 @@
       <file leaf-file-name="bootstrap.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="6619">
+              <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
               <folding>
                 <element signature="e#61909#62109#2" expanded="true" />
                 <element signature="e#62317#62466#2" expanded="true" />
@@ -54,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blogpost.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="blogpost.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blogpost.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="822">
-              <caret line="96" column="493" lean-forward="false" selection-start-line="96" selection-start-column="493" selection-end-line="96" selection-end-column="493" />
+            <state relative-caret-position="300">
+              <caret line="35" column="66" lean-forward="false" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
               <folding>
                 <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -140,7 +140,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&lt;img class=&quot;img-fluid mb-5&quot; src=&quot;img/portfolio/nathan-.png&quot; alt=&quot;&quot;&gt;</find>
       <find>project</find>
       <find>project name</find>
       <find>market</find>
@@ -170,6 +169,7 @@
       <find>desktop</find>
       <find>&lt;hr class=&quot;star-light&quot;&gt;</find>
       <find>star-light</find>
+      <find>farha</find>
     </findStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -195,10 +195,10 @@
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/css/freelancer.css" />
-        <option value="$PROJECT_DIR$/blogpost.html" />
         <option value="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/css/freelancer.min.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/blogpost.html" />
       </list>
     </option>
   </component>
@@ -709,12 +709,12 @@
       <workItem from="1520951723471" duration="11073000" />
       <workItem from="1521379965867" duration="7802000" />
       <workItem from="1521476253048" duration="142000" />
-      <workItem from="1521550150150" duration="14057000" />
+      <workItem from="1521550150150" duration="14344000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40210000" />
+    <option name="totallyTimeSpent" value="40497000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -1136,20 +1136,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogpost.html">
+    <entry file="file://$PROJECT_DIR$/css/freelancer.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="822">
-          <caret line="96" column="493" lean-forward="false" selection-start-line="96" selection-start-column="493" selection-end-line="96" selection-end-column="493" />
-          <folding>
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="52">
+          <caret line="0" column="448" lean-forward="false" selection-start-line="0" selection-start-column="448" selection-end-line="0" selection-end-column="448" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="6619">
+          <caret line="25" column="23" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
           <folding>
             <element signature="e#61909#62109#2" expanded="true" />
             <element signature="e#62317#62466#2" expanded="true" />
@@ -1163,19 +1161,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/freelancer.min.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="0" column="448" lean-forward="false" selection-start-line="0" selection-start-column="448" selection-end-line="0" selection-end-column="448" />
+        <state relative-caret-position="13832">
+          <caret line="521" column="43" lean-forward="true" selection-start-line="521" selection-start-column="43" selection-end-line="521" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/blogpost.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="521" column="43" lean-forward="true" selection-start-line="521" selection-start-column="43" selection-end-line="521" selection-end-column="43" />
-          <folding />
+        <state relative-caret-position="300">
+          <caret line="35" column="66" lean-forward="false" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="66" />
+          <folding>
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
